@@ -1,5 +1,6 @@
 # Trạng thái cơ bản: 
 <img width="1651" height="811" alt="image" src="https://github.com/user-attachments/assets/0a171b28-2b47-4dea-b3ee-57db75a1abc5" />
+<img width="1435" height="510" alt="image" src="https://github.com/user-attachments/assets/08e02119-fea1-43a8-a23f-326d49313111" />
 =>Được nâng cấp bởi "@Trần Thế Hảo" 
 
 <img width="730" height="920" alt="image" src="https://github.com/user-attachments/assets/657edc52-b8c3-4c08-b0c1-791497aa84a7" />
