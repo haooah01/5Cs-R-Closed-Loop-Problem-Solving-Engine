@@ -1,3 +1,11 @@
+# Trạng thái cơ bản: 
+<img width="1651" height="811" alt="image" src="https://github.com/user-attachments/assets/0a171b28-2b47-4dea-b3ee-57db75a1abc5" />
+=>Được nâng cấp bởi "@Trần Thế Hảo" 
+
+<img width="730" height="920" alt="image" src="https://github.com/user-attachments/assets/657edc52-b8c3-4c08-b0c1-791497aa84a7" />
+
+----
+
 # 5Cs-R Closed-Loop Problem-Solving Engine
 
 Kiến trúc hệ thống giải quyết vấn đề vòng kín (Closed-Loop), vận hành theo luồng xử lý 5 tầng: **L0 Context → L1 Adaptive & Routing → L2 Problem-Solving → L3 Quality Control → L4 Deliverables**. Hệ thống tách biệt và chuẩn hóa độc lập 4 cơ chế liên kết cốt lõi: **Bao chứa (Containment)**, **Phủ xuyên (Cross-Cutting)**, **Định tuyến (Routing)** và **Tái nhập (Re-entry)**.
