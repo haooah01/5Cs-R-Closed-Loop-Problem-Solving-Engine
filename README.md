@@ -1,4 +1,4 @@
-# 5Cs-R-Closed-Loop-Problem-Solving-Engine
+<img width="312" height="355" alt="image" src="https://github.com/user-attachments/assets/4c495cb8-cca6-4ecd-bf20-a979cb3d502a" /># 5Cs-R-Closed-Loop-Problem-Solving-Engine
 Cấu trúc tổng quát: L0 Context → L1 Adaptive &amp; Routing → L2 Problem-Solving → L3 Quality Control → L4 Deliverables, với các quan hệ bao chứa, phủ xuyên, định tuyến và tái nhập được thể hiện độc lập.
 
 ---
@@ -61,5 +61,18 @@ Mẫu 2: <img width="1536" height="1024" alt="c361490d-943d-4ecc-b21b-b451c99615
 <img width="605" height="422" alt="image" src="https://github.com/user-attachments/assets/270296e7-3a15-4017-bff7-8e9db41d285d" />
 <img width="667" height="840" alt="image" src="https://github.com/user-attachments/assets/23288a22-14db-4371-a46e-18d9e5521c3f" />
 <img width="676" height="815" alt="image" src="https://github.com/user-attachments/assets/cff436b0-86e1-448e-b3bc-583c438804f1" />
+<img width="276" height="338" alt="image" src="https://github.com/user-attachments/assets/90c8cc68-a3ab-4e20-8cfd-5d043048a56b" />
+<img width="312" height="355" alt="image" src="https://github.com/user-attachments/assets/e3c2f19a-e260-49fc-a92a-0cdba02f74e2" />
+<img width="247" height="367" alt="image" src="https://github.com/user-attachments/assets/f3660443-a16e-4acd-8b7a-7e11d01fb382" />
+<img width="247" height="222" alt="image" src="https://github.com/user-attachments/assets/b67183a4-ef69-421b-81e3-c35ce63c3bc9" />
+<img width="665" height="505" alt="image" src="https://github.com/user-attachments/assets/60c0fede-4f3b-4b77-bc63-810997e80757" />
+<img width="320" height="368" alt="image" src="https://github.com/user-attachments/assets/f58f9be1-bf3b-46b8-9042-2f6898b5fd2f" />
+<img width="263" height="372" alt="image" src="https://github.com/user-attachments/assets/37092509-64c2-4d34-97ac-e772d2858301" />
+<img width="290" height="367" alt="image" src="https://github.com/user-attachments/assets/002b52e5-4c6a-475f-a14c-b80eec936b52" />
+<img width="317" height="342" alt="image" src="https://github.com/user-attachments/assets/4bfde730-9d32-46a2-ab0e-35bec5390fda" />
+<img width="383" height="362" alt="image" src="https://github.com/user-attachments/assets/0b436cda-0328-4bc3-ad88-d8f10a212885" />
+<img width="327" height="358" alt="image" src="https://github.com/user-attachments/assets/68c05f5b-e825-47a4-992a-0c244850a18a" />
+<img width="687" height="870" alt="image" src="https://github.com/user-attachments/assets/d0812178-853f-46a9-a5d4-dccdfc96627d" />
+
 
 
