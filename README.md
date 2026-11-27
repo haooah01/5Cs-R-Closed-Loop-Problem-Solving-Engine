@@ -194,3 +194,7 @@ Chuỗi đặc tả cấu trúc nội bộ nối tiếp từ **Biến thể 2**,
 
 **SPEC-59 — Tổng kết Kiến trúc · Chuẩn Bàn giao & Điểm Neo Mở rộng**
 <img width="263" height="372" alt="image" src="https://github.com/user-attachments/assets/37092509-64c2-4d34-97ac-e772d2858301" />
+
+## Feedback Routing Architecture
+
+<img width="1835" height="1015" alt="image" src="https://github.com/user-attachments/assets/eb5387e8-3ea1-494d-a17b-187bfbeed429" />
